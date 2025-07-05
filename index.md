@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://YDCHN86.github.io.com/aniya_1.jpg" class="floatpic">
+<img src="https://YDCHN86.github.io/aniya_1.jpg" class="floatpic">
 
 Here is **Duo Yu (Saber, 余朵)**.<br>
 
