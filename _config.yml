@@ -49,7 +49,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # --------------------------------------------------
 links:
   - title: 关于我
-    url: /cn/
+    url: 
   - title: 研究计划
     url: /publications/
   - #title: Awards
