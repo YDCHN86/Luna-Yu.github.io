@@ -12,7 +12,6 @@ I am a cow horse in the a group in Hangzhou.
 
 I decided to become a person who dedicates himself to the good life of the people. Maybe I am a Communist Party member, I hope everyone can have enough food, meat, eggs, milk, and vegetablesto eat; everyone only needs to work 5 days a week, 8 hours a day; everyone can abandon the professional filter and receive due respect; everyone has a place to rely on when old and a place to take care of when young
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **YDCHN86.com**
 
 ---
 
