@@ -14,7 +14,7 @@ url: https://ydchn86.github.io/
 # --------------------------------------------------
 owner:
   name: Duo Yu
-  avatar: https://YDCHN86.github.io/aniya_1.jpg
+  avatar: aniya_1.jpg
   bio: The more you done, the more mistake had. But someone have to do.
   email: YDCHN86@gmail.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -38,7 +38,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
