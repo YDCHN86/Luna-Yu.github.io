@@ -20,7 +20,7 @@ title: 主页中文版
 
 <br>
 
-> 分享我最喜欢的一首歌，[祖国不会忘记](https://YDCHN86.github.io/song_1.mp3)
+> 分享我最喜欢的一首歌，[祖国不会忘记](https://YDCHN86.github.io/song_1.mp3) 	<audio autoplay="false" controls="controls"loop="loop" preload="auto"src="YDCHN86.github.io/song_1.mp3">你的浏览器版本太低，不支持audio标签</audio>
 >
 > “在茫茫的人海里，我是哪一个；
 > 
