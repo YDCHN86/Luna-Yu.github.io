@@ -14,7 +14,7 @@ url: https://ydchn86.github.io/
 # --------------------------------------------------
 owner:
   name: Duo Yu
-  avatar: aniya_1.jpg
+  avatar: https://YDCHN86.github.io/aniya_1.jpg
   bio: The more you done, the more mistake had. But someone have to do.
   email: YDCHN86@gmail.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -25,7 +25,7 @@ owner:
   github: YDCHN86
   #linkedin: 
   #scholar: NA
-  researchgate: NA
+  #researchgate: NA
   #zhihu: https://www.zhihu.com/people/chlire
   #xiaohongshu: 5c27848f0000000005030c6f
   bilibili: 234061157
@@ -49,7 +49,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # --------------------------------------------------
 links:
   - title: 关于我
-    url: /
+    url: /cn/
   - title: 研究计划
     url: /publications/
   - #title: Awards
