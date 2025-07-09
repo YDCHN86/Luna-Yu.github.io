@@ -3,11 +3,11 @@
 # --------------------------------------------------
 title: Duo Yu   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Duo Yu. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: description 位置  # Strongly recommended for SEO & social cards
+description: three stupid man = one wise man  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://ydchn86.github.io/
+url: https://ydchn86.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
