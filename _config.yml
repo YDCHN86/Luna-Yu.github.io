@@ -53,13 +53,13 @@ links:
   - title: 研究计划
     url: /publications/
   - #title: Awards
-    url: /awards/
+    #url: /awards/
   - title: 兴趣爱好
     url: /hobbies/
   - title: Blogs
     url: /blogs/
-  - title: 中文
-    url: /cn/
+  - title: English
+    url: /en/
 
 
 # --------------------------------------------------
