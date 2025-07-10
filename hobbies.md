@@ -4,50 +4,47 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
+这个页面或许不太会更新，因为本人精力有限，未来也许也不会再开发新的爱好了。鄙人大多爱好都是浅尝辄止，比如：摄影、旅游、游泳、跆拳道、电子设备，唯一一个坚持很久的爱好还是打游戏（废人确实理应如此
 
-# Hobbies
+# 兴趣爱好
 
-## Swimming & Surfing
-
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
-
-## Workshop
+## 摄影 & 旅行
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/待补充.JPG">
+<img src="/images/待补充.JPG">
+<img src="/images/待补充.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>中国有句古话：读万卷书，行万里路。万卷，我肯定是没有读那么多书的，万里路，可能有吧。在我小学的时候，就去过福建的厦门，海的味道我知道（总会想起波力海苔的广告），升入了初高中，又去了新疆（北疆），在上海求学时期，游历过苏州（江南园林确实小巧精致），求学后在冬春时节，游览大兴安岭的银色白桦林和丹东的鸭绿江畔。
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+## 嵌入式
 
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
+<div class="third">
+<img src="/images/待补充.JPG">
+<img src="/images/待补充.JPG">
+<img src="/images/待补充.JPG">
 </div>
-<br>
+<br>嵌入式，我最早了解到这个东西是在大学。在大一的时候，我们导员拿了几个树莓派和51单片机给我们玩，但很可惜玩了一下就被迫转移注意力了，也是没有办法的事情。哈哈哈哈如果让我重新读一次大学，没有那么多杂七杂八的事情干扰，也不知道我能不能<strong>精通</strong>单片机呢？
 
-## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+
+## 未来期望
+
+<br>说到未来的期望，那肯定是有很多的
+<br>1、装修自己的房子
+<br>2、买一台性能好的笔记本（ROG！！My love）
+<br>3、继续研究嵌入式的项目，STM32类
+<br>4、买辆自己的车子、无人机
+<br>5、去西藏贡嘎雪山等地方玩，看看高中地理课本中的冰川积水融雪，看看小学语文课本中的雅鲁藏布江！！
+<br>一年后再来看看吧，能实现几个LOL
+
+
+## 联系我
+
+**2025年7月:** 我设立了一个 [咖啡角](https://calendly.com/ydchn86/30min) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). 欢迎您的交流！
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/ydchn86/30min" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->

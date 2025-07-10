@@ -1,7 +1,7 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Duo Yu   # Main site title (appears in browser tab & RSS)
+title: RenHe Jimu   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Duo Yu. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: three stupid man = one wise man  # Strongly recommended for SEO & social cards
 
@@ -15,7 +15,7 @@ url: https://ydchn86.github.io
 owner:
   name: Renhe Jimu
   avatar: aniya_1.jpg
-  bio: if I don't do it, who will?; if I don't help, who will?; sacrifice oneself in order to save others
+  bio: if I don't do it, who will? if I don't help, who will? sacrifice oneself in order to save others
   email: YDCHN86@gmail.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 

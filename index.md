@@ -14,7 +14,7 @@ I am a cow horse in the a group in Hangzhou.
 I decided to become a person who dedicates himself to the good life of the people. Maybe I am a Communist Party member, I hope everyone can have enough food, meat, eggs, milk, and vegetablesto eat; everyone only needs to work 5 days a week, 8 hours a day; everyone can abandon the professional filter and receive due respect; everyone has a place to rely on when old and a place to take care of when young
 -->
 
-## 关于我
+## 个人简介
 
 <img src="https://YDCHN86.github.io/aniya_1.jpg" class="floatpic">
 
@@ -24,7 +24,7 @@ I decided to become a person who dedicates himself to the good life of the peopl
 
 <br>在过去的求学时光中，我学习了嵌入式、ARM语言、传统机械、电路、统计等学校教授的知识，并在空余时间学习ssh、路由器、C及Python等语言。鄙人学的很杂，正如上文所说，学艺不精，如今也深受其害。因工作需要，接下来我将继续学习深入各个部分，以开发出某种设备，为如今的工作提供便利。
 
-<br>（空）
+<br>因为专业原因，交叉学科发展受限，就业也是一样，在如今大环境下，寻找工作机会也是非常困难。如今工科生干了文职，鄙人也只得苦笑，天道好轮回，苍天饶过谁TAT。但是无妨，我的高中生涯告诉了我，要学会自主学习，所以接下来我也要持续地学习，直到死。（为什么大学不好好学习，有苦衷，但确实不适合公开说TAT）
 
 <br>最后，若您有任何我可以协助的事项，或者您愿意向我分享宝贵建议，我都非常欢迎与您交流与合作。您可以通过邮箱 **YDCHN86[at]gmail.com** 与我联系，或通过微信 **wxid6295yd** 添加我**（请务必注明来意，谢谢！）**
 
@@ -59,4 +59,4 @@ I decided to become a person who dedicates himself to the good life of the peopl
 <br>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+-->
