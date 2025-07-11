@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://YDCHN86.github.io/aniya_1.jpg" class="floatpic">
+<img src="https://Luna-Yu.github.io/aniya_1.jpg" class="floatpic">
 
 <br>首先感谢您的阅读。我是人和积木，2002年生，浙江杭州人。
 

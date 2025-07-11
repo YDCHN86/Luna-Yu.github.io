@@ -16,9 +16,9 @@ I decided to become a person who dedicates himself to the good life of the peopl
 
 ## 个人简介
 
-<img src="https://YDCHN86.github.io/aniya_1.jpg" class="floatpic">
+<img src="https://Luna-Yu.github.io/aniya_1.jpg" class="floatpic">
 
-<br>首先感谢您的阅读。我是人和积木，2002年生，浙江杭州人。
+<br>首先感谢您的阅读。我是Luna Yu，2002年生，浙江杭州人。
 
 <br>我目前在浙江省某单位从事文职工作。2024年本科毕业于上海某高校医工结合专业，学术也是不精，虽然接触了工科、医学的很多领域，但也没有专精的方面。在工作过程中，各种研究计划书如同雨后春笋般止不住的冒头，故认识到书到用时方恨少。于2025年夏季开始学习新的知识。
 

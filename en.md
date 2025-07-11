@@ -7,9 +7,9 @@ title: 主页英文版
 
 # About Me
 
-<img src="https://YDCHN86.github.io/aniya_1.jpg" class="floatpic">
+<img src="https://Luna-Yu.github.io/aniya_1.jpg" class="floatpic">
 
-Here is **Duo Yu (Saber, 余朵)**.<br>
+Here is **Luna Yu**.<br>
 
 I am a cow horse in the a group in Hangzhou. 
 
