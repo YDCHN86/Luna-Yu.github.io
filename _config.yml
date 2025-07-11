@@ -7,13 +7,13 @@ description: three stupid man = one wise man  # Strongly recommended for SEO & s
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://Luna-Yu.github.io
+url: https://ydchn86.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Luna Yu
+  name: Renhe Jimu
   avatar: aniya_1.jpg
   bio: if I don't do it, who will? if I don't help, who will? sacrifice oneself in order to save others
   email: YDCHN86@gmail.com
