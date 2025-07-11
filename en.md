@@ -7,7 +7,7 @@ title: 主页英文版
 
 # About Me
 
-<img src="https://Luna-Yu.github.io/aniya_1.jpg" class="floatpic">
+<img src="https://ydchn86.github.io/aniya_1.jpg" class="floatpic">
 
 Here is **Luna Yu**.<br>
 
