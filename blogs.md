@@ -25,6 +25,6 @@ title: Blogs
 - 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/YDCHN86/ydchn86.github.io)留下一个Star吧！
 - [Leave a github star if you like it 🥰 Thank you so much!](https://github.com/YDCHN86/ydchn86.github.io) 
 
-Finally, my WeChat account - wxid6295yd
+最后, 我的微信账号 - wxid6295yd
 
 <br>
